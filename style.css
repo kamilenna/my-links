@@ -60,7 +60,7 @@ main {
 .links a {
     min-width: 250px;
     height: 50px;
-    border-radius: 20px;
+    border-radius: 50px;
     background-color: #ffffff;
     color: #8532D9;
     /*margin-bottom: 35px;*/
