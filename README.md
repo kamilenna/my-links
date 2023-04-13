@@ -8,7 +8,7 @@
 <p>Um página com links para as minhas redes inspirada no linktree.</p> 
 
 
-<h3><strong><a href="https://melodyplay.netlify.app/" target="_blank">Link do projeto</a></strong></h3>
+<h3><strong><a href="https://kamilenna.github.io/my-links/" target="_blank">Link do projeto</a></strong></h3>
 
 <br>
 
