@@ -6,6 +6,9 @@
 }
 body {
     background-image: url("assets/confetti-doodles-bg.svg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
     font-family: 'Poppins', sans-serif;
     width: 100vw;
     height: 100vh;
@@ -63,7 +66,7 @@ main {
     border-radius: 50px;
     background-color: #ffffff;
     color: #8532D9;
-    margin: 10px 0px 10px 0px;
+    margin: 10px 0px 15px 0px;
     text-align: center;
     padding-top: 12px;
     border: 2px solid #8532D9;

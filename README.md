@@ -13,7 +13,7 @@
 <br>
 
 <h2>🎨 Layout</h2>
-<img src="assets/layout.png"/>
+<img src="assets/screencapture.png"/>
 <h3><strong><a href="https://www.figma.com/file/zlWwQ7mD2VjmFFEVJ3JSfy/dev-links?node-id=0%3A1&t=9THyzI6IRbPWVJ2d-1" target="_blank">Link do Figma</a></strong></h3>
 
 <br>
